@@ -1,0 +1,16 @@
+streamlit==1.38.0
+langchain==0.3.1
+langchain-community==0.3.1
+transformers==4.44.2
+torch>=2.3.0
+scikit-learn==1.5.2
+pypdf==4.3.1
+sentence_transformers
+sentencepiece
+accelerate
+chromadb
+tiktoken
+fastapi
+uvicorn
+python-multipart
+aiofiles
